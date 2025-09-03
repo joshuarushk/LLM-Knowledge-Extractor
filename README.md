@@ -1,1 +1,1 @@
-# LLM-Knowledge-Extractor
+This is a pipeline text analysis prototype wherei every step runs in sequence to transform raw text into structured metadata. The modular pattern is easy to extend, swap, or unit test individual steps independently and ensuring a clean/readable flow.
